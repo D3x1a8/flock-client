@@ -8,7 +8,8 @@ import {
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
-import ReactHlsPlayer from 'react-hls-player';
+import VideoComponent from '../videoPlayer/VideoComponent';
+
 
 
 export default function ListItem({ index, item }) {
@@ -44,12 +45,8 @@ export default function ListItem({ index, item }) {
         <img src={movie?.imgSm} alt="" />
         {isHovered && (
           <>
-            <ReactHlsPlayer
-              className="video"
-              autoPlay={true}
-              src={movie.trailer}
-              // controls={true}
-            />
+      <VideoComponent encryptedUrl={movie.trailer} />
+
             {/* <video src={movie.trailer} autoPlay={true} loop /> */}
             <div className="itemInfo">
               <div className="icons">

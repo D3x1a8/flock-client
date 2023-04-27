@@ -1,6 +1,5 @@
 import { ArrowBackOutlined } from "@material-ui/icons";
 import { Link, useLocation } from "react-router-dom";
-// import ReactHlsPlayer from 'react-hls-player';
 import "./watch.scss";
 import VideoComponent from '../../components/videoPlayer/VideoComponent';
 
