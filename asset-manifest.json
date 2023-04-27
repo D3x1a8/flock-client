@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flock-client/static/css/main.c63d33ed.chunk.css",
+    "main.js": "/flock-client/static/js/main.d10a7ab1.chunk.js",
+    "main.js.map": "/flock-client/static/js/main.d10a7ab1.chunk.js.map",
+    "runtime-main.js": "/flock-client/static/js/runtime-main.937196eb.js",
+    "runtime-main.js.map": "/flock-client/static/js/runtime-main.937196eb.js.map",
+    "static/js/2.b5a1a309.chunk.js": "/flock-client/static/js/2.b5a1a309.chunk.js",
+    "static/js/2.b5a1a309.chunk.js.map": "/flock-client/static/js/2.b5a1a309.chunk.js.map",
+    "index.html": "/flock-client/index.html",
+    "static/css/main.c63d33ed.chunk.css.map": "/flock-client/static/css/main.c63d33ed.chunk.css.map",
+    "static/js/2.b5a1a309.chunk.js.LICENSE.txt": "/flock-client/static/js/2.b5a1a309.chunk.js.LICENSE.txt",
+    "static/js/main.d10a7ab1.chunk.js.LICENSE.txt": "/flock-client/static/js/main.d10a7ab1.chunk.js.LICENSE.txt",
+    "static/media/FlockOtt_logo.4df29138.png": "/flock-client/static/media/FlockOtt_logo.4df29138.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.937196eb.js",
+    "static/js/2.b5a1a309.chunk.js",
+    "static/css/main.c63d33ed.chunk.css",
+    "static/js/main.d10a7ab1.chunk.js"
+  ]
+}
